@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Injection Attacks on LLMs for Security</title>
+    <link>http://localhost:1313/llms-for-security/docs/prompt/</link>
+    <description>Recent content in Prompt Injection Attacks on LLMs for Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/llms-for-security/docs/prompt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Prompt Injection: Multi-Turn Attacks and Indirect Prompt Injection Explained</title>
+      <link>http://localhost:1313/llms-for-security/docs/prompt/prompt/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/llms-for-security/docs/prompt/prompt/3/</guid>
+      <description>Introduction&#xA;As Large Language Models (LLMs) become more sophisticated and integrated into various applications, attackers are developing more advanced prompt injection techniques to exploit vulnerabilities. This tutorial explores two such techniques: multi-turn attacks and indirect prompt injection, which pose significant threats to LLM security, especially when deployed through APIs or custom environments.&#xA;Multi-Turn Prompt Injection&#xA;Traditional prompt injection attacks typically involve crafting a single, carefully designed prompt to manipulate the LLM&amp;rsquo;s behavior.</description>
+    </item>
+    <item>
+      <title>Bypassing LLM Safety Filters: Advanced Prompt Engineering Techniques for Security Researchers</title>
+      <link>http://localhost:1313/llms-for-security/docs/prompt/prompt/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/llms-for-security/docs/prompt/prompt/2/</guid>
+      <description>Introduction&#xA;Large language models (LLMs) like GPT-3 and GPT-4 are trained on massive datasets and have impressive capabilities in generating human-like text. However, these models can also be used to generate harmful or inappropriate content. To mitigate this risk, developers implement safety guidelines and filters to prevent LLMs from generating such outputs. This tutorial explores advanced prompt engineering techniques that security researchers can use to understand and potentially bypass these safety mechanisms.</description>
+    </item>
+    <item>
+      <title>Understanding Prompt Injection: Types and Techniques.</title>
+      <link>http://localhost:1313/llms-for-security/docs/prompt/prompt/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/llms-for-security/docs/prompt/prompt/1/</guid>
+      <description>Introduction&#xA;Prompt injection is a rapidly evolving attack vector targeting Large Language Models (LLMs). It involves manipulating the input prompts given to an LLM to induce unintended and potentially harmful behavior. This can range from revealing sensitive information to generating malicious content or even gaining control of the underlying system. Understanding prompt injection is crucial for securing LLMs and mitigating the risks associated with their deployment.&#xA;What is Prompt Injection?</description>
+    </item>
+  </channel>
+</rss>
